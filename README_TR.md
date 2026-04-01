@@ -10,7 +10,7 @@ haxelib install flixel
 haxelib install haxeui-core
 haxelib install haxeui-flixel
 ```
-kullanın
+kullanın.
 
 ## Kullanım
 
